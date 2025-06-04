@@ -1,9 +1,11 @@
-# 🛍️ Product Analysis with Customer Reviews
+# Electronics Product Analysis with Customer Reviews (2007-2018)
 
-Sources: BestBuy, Amazon, Walmart, eBay, Homedepot, Petco and CBW
+Dataset: [onyxdataset](https://onyxdata.kit.com/datadna-feb-2024)
 
-## 📊 Overview
-This project performs a comparative analysis of products across seven major e-commerce platforms—BestBuy, Amazon, Walmart, eBay, Homedepot, Petco and CBW. It includes an in-depth look at:
+## Overview
+This project is a February 2024 Data DNA - Dataset Challenge!
+
+Using Electronic Product Data Ratings dataset that performs a comparative analysis of products across seven major e-commerce platforms—BestBuy, Amazon, Walmart, eBay, Homedepot, Petco and CBW. It includes an in-depth look at:
 
 * Customer Reviews
 
@@ -17,11 +19,12 @@ This project performs a comparative analysis of products across seven major e-co
 
 The goal is to help the client to understand about ratings and reviews of their products that can influence their sales. Identifying the top performing and highly recommended products that can help their marketing strategy.
 
+## Dashboard
 
 ![image](https://github.com/user-attachments/assets/2cf68be7-2a99-415a-bb3c-c8ebc85ce270)
 ![image](https://github.com/user-attachments/assets/c0ed96d5-8916-488d-a952-103f04fdfe31)
 
-## 📊 Data Dictionary
+## Data Dictionary
 
 * id	- A unique identifier for each product entry	String
 * brand - The brand name of the product	String
@@ -44,6 +47,8 @@ The goal is to help the client to understand about ratings and reviews of their 
 * sourceURLs - The URL(s) where the product information was sourced, could be multiple URLs separated by commas	String
 * upc - The Universal Product Code for the product	Float
 * weight - The weight of the product, standardized to a string format	String
+
+
 
 
 
