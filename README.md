@@ -48,8 +48,33 @@ The goal is to help the client to understand about ratings and reviews of their 
 * upc - The Universal Product Code for the product	Float
 * weight - The weight of the product, standardized to a string format	String
 
+# Executive Summary
+* A total of 7,299 reviews were collected between 2007 and 2018 from seven sources: Amazon, BestBuy, CDW, eBay, Home Depot, and Petco. The average rating across all reviews is 4.3 stars, with the highest rating (5 stars) accounting for 61.5% of all reviews.
 
+* From 2007 to 2018, the average rating shows an upward trend, following a notable dip to 2.1 in 2009.
 
+* Logitech received the highest number of 5-star reviews, with a total of 834 reviews, outperforming its competitors in volume. The top five brands with an average rating of 5 stars are House of Marley, SVS, Toshiba, Kicker, and Clarity-Telecom.
+
+* The five lowest-rated brands, each with an average rating of 3 stars, are Bose, Dreamwave, Lenovo, Motorola, and Yamaha.
+
+* The top five brands with a 100% recommendation rate are Peerless-AV, House of Marley, SVS, Toshiba, and Kicker. In contrast, the brands with the lowest average recommendation rate, at 23%, are Dreamwave, Motorola, Yamaha, Sony, and JVC.
+
+# Recommendations
+
+* Prioritize Partnerships with High-Performing Brands
+Brands like Logitech, SVS, House of Marley, Toshiba, and Kicker consistently receive high ratings and 100% recommendation rates. Consider prioritizing or expanding partnerships with these brands to maintain customer satisfaction and trust.
+
+* Reassess Low-Performing Brands
+Brands such as Dreamwave, Motorola, Yamaha, Sony, and JVC show both low average ratings (around 3 stars) and low recommendation rates (~23%). These may need quality audits, improved customer support, or reevaluation in product listings.
+
+* Investigate the 2009 Rating Dip
+The sharp dip in average rating to 2.1 in 2009 suggests an issue that may have affected product or service quality during that year. Further investigation could provide lessons for avoiding similar downturns.
+
+* Promote Top Recommended Brands
+Use marketing campaigns to highlight the brands with 100% customer recommendation—this can build consumer confidence and drive conversions.
+
+* Encourage Reviews for Less-Rated Brands
+Some brands may be underrepresented in the data. Encouraging verified reviews for newer or niche brands can provide a fuller picture and uncover hidden strengths or weaknesses.
 
 
 
